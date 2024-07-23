@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sim_1/new/tb.v,1701857608,verilog,,,,tb,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/ip/outputBuffer/sim/outputBuffer.v,1700788698,verilog,,C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/conv.v,,outputBuffer,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/conv.v,1701422307,verilog,,C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/imageControl.v,,conv,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/imageControl.v,1700788368,verilog,,C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/imageProcessTop.v,,imageControl,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/imageProcessTop.v,1700788768,verilog,,C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/linebuffer.v,,imageProcessTop,,,,,,,,
+C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sources_1/new/linebuffer.v,1700788174,verilog,,C:/Users/hithe/OneDrive/Desktop/embedded systems/project_1/project_1.srcs/sim_1/new/tb.v,,lineBuffer,,,,,,,,
